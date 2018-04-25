@@ -5,8 +5,8 @@ html, body {
 
 .main-loading {
 	position: fixed;
-	top: 50%;
-	left: 50%;
+	top: 100%;
+	left: 100%;
 	transform: translate(-50%,-50%);
 	-webkit-transform: translate(-50%,-50%);
 	-o-transform: translate(-50%,-50%);
