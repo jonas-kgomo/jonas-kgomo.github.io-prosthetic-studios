@@ -341,6 +341,7 @@ section.bg-reverse {
 
 section.bg-overlay {
 	background-color: rgba(0,0,0,0.85);
+        box-shadow: 0px 0px 5px #fff;
 }
 
 section.padding {
