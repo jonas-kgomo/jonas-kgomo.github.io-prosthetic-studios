@@ -1,6 +1,7 @@
 /*reset*/
 html, body {
 	height: 100% !important;
+	width: 90%;
 }
 
 .main-loading {
@@ -332,7 +333,7 @@ section {
 }
 
 section.bg-grey {
-	background-color: #f9f9a9;
+	background-color: #ff9526;
 }
 
 section.bg-reverse {
