@@ -332,7 +332,7 @@ section {
 }
 
 section.bg-grey {
-	background-color: #96731b;
+	background-color: secondary;
 }
 
 section.bg-reverse {
