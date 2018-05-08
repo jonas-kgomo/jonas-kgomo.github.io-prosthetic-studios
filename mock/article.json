@@ -5,4 +5,14 @@
 	"date": "August 10, 2017",
 	"author": "John Doe",
 	"category": "Nature"
+},
+
+
+{
+	"title": "ocupus",
+	"picture": "img/news/img00.jpg",
+	"content": "<p>wait this is crazy </p>",
+	"date": "August 10, 2017",
+	"author": "Dohn Joe",
+	"category": "Mature"
 }
