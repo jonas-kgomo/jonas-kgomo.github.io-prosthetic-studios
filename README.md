@@ -15,7 +15,7 @@ _Commentating, illustrating, description giving, adjective expert analyzing, sur
 
 # 3D Prints
 
-Printed instruments can be exported for musical playing 
+Printed instruments can be exported for musical playing . Ray Kurtzweil has talked about his prediction that in 2020 we will be able to digitally download 3D assets.
 
 # Credits
 - Bootstrap 4
