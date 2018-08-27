@@ -1,7 +1,9 @@
 
 
 # Prosthetic Studios
-Music for creation 
+We create work for various avenues.
+
+
 
 _Commentating, illustrating, description giving, adjective expert analyzing, surmising, musical_
 # Features
@@ -11,7 +13,9 @@ _Commentating, illustrating, description giving, adjective expert analyzing, sur
 # Demo
 
 
+# 3D Prints
 
+Printed instruments can be exported for musical playing 
 
 # Credits
 - Bootstrap 4
