@@ -1,25 +1,16 @@
 
 
-# Stisla
-Stisla is HTML5 and CSS3 Template Based on Bootstrap 4
+# Prosthetic Studios
+Music for creation 
 
+_Commentating, illustrating, description giving, adjective expert analyzing, surmising, musical_
 # Features
-- No errors (W3C Validator)
-- Bootstrap 4
-- HTML5 & CSS3
-- PHPMailer
-- Sweet Alert
-- Google maps
-- Modern design
-- Fully responsive
-- Cross-browser compatibility
-- Working contact form
-- Modal article detail
-- Smooth scroll
-- Parallax background
-- and more ...
+- Ray-marched
+- Abstract
 
 # Demo
+
+
 
 
 # Credits
