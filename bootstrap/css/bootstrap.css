@@ -4,7 +4,7 @@
  * Copyright 2011-2017 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-@media print {
+ @media print {
   *,
   *::before,
   *::after {
@@ -1988,31 +1988,32 @@ fieldset[disabled] a.btn {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  color: #FFF0BA;;
+  background-color: #271325;
+  border-color: #FFF0BA;;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #271325;
+  border-color: #FFF0BA;;
 }
 
 .btn-primary:focus, .btn-primary.focus {
   box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
+  text-shadow: 0 0 10px rgba(246, 250, 223, 0.976);
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #271325;
+  border-color: #FFF0BA;;
 }
 
 .btn-primary:active, .btn-primary.active,
 .show > .btn-primary.dropdown-toggle {
-  background-color: #0069d9;
+  background-color: #271325;
+  border-color: #FFF0BA;;
   background-image: none;
-  border-color: #0062cc;
 }
 
 .btn-secondary {
@@ -2212,16 +2213,16 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-primary {
-  color: #007bff;
+  color: #ffffff;
   background-color: transparent;
   background-image: none;
-  border-color: #007bff;
+  border-color: #ffffff;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #271325;
+  border-color: #FFF0BA;;
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
