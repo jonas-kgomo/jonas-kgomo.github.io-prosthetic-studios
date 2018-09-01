@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Prosthetic Studios
@@ -28,3 +29,7 @@ Printed instruments can be exported for musical playing . Ray Kurtzweil has talk
 # License
 MIT License
 
+=======
+# profile
+website portfolio
+>>>>>>> 74a766ad2226e87ff73faee36ba49acac1bd0850

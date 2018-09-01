@@ -50,8 +50,8 @@ html, body {
 }
 
 .overlay {
-	background-color: #000;
-	opacity: .80;
+	background-color: #271325;
+	opacity: .90;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -244,8 +244,10 @@ html, body {
 /*hero*/
 .hero {
 	height: 100%;
-	color: #fff;
-	position: relative;
+	width: 100%;
+	color: #FFF0BA;
+	position: center;
+	
 }
 
 .hero .text {
@@ -306,6 +308,8 @@ html, body {
 
 .hero .cta .btn.btn-link {
 	color: #fff;
+	outline: #FFF0BA;
+	background-color: #271325;
 }
 
 .hero .cta .btn.btn-link i {
@@ -324,6 +328,7 @@ html, body {
 	color: #999;
 	font-weight: 600;
 	letter-spacing: .3px;
+    
 }
 
 /*section*/
@@ -332,7 +337,8 @@ section {
 }
 
 section.bg-grey {
-	background-color: #9e803b61;
+	background-color: #271325;
+	opacity: 0.9;
 }
 
 section.bg-reverse {
@@ -420,7 +426,8 @@ section.callout h3 {
 	-webkit-flex: 0 0 65px;
 	font-size: 45px;
 	line-height: 0;
-	color: #ccc;
+	color: #e2e073;
+	text-shadow: 0 0 20px rgba(93, 82, 60, 0.801)
 }
 
 .list-item .desc h2 {
@@ -455,7 +462,7 @@ article.card {
 
 article.card .card-img-top {
 	height: 100%;
-	width: 80%;
+	width: 100%;
 }
 
 article.card .card-title {
@@ -469,7 +476,7 @@ article.card .card-title a {
 }
 
 article.card .card-title a:hover {
-	opacity: .8;
+	opacity: .6;
 }
 
 article.card .card-text {
@@ -536,7 +543,7 @@ article.card .card-more i {
 }
 
 .subscribe .form-control:focus {
-	border-color: #0069d9;
+	border-color: #271325;
 }
 
 .subscribe .btn {
@@ -748,7 +755,7 @@ footer i {
 
 @media screen and (max-width: 576px) {
 	.hero .text h1 {
-		font-size: 34px;
+		font-size: 40px;
 	}
 	.hero .text p.lead {
 		line-height: normal;
